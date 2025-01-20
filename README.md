@@ -1,4 +1,6 @@
 # Project1
 #include<stdio.h>
-int main()
+int main(){
 printf("Hello nikki")
+return 0
+}
